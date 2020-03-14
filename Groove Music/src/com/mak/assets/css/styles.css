@@ -1,0 +1,55 @@
+.vbox{
+    -fx-background-color: #2B2B2B;
+}
+
+.mainPane{
+    -fx-background-color: #000000;
+}
+
+.side-nav-btn{
+    -fx-background-color: transparent;
+}
+
+.side-nav-btn:hover{
+    -fx-background-color: #525252;
+}
+
+.bottomPane{
+    -fx-background-color: #4E211E;
+}
+
+.cancel{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+}
+
+.cancel:hover{
+    -fx-background-color: transparent;
+    -fx-text-fill: #ccc0c0;
+}
+
+.musicLabelPane{
+    -fx-background-color: #1A1A1A;
+}
+
+.musicLabelPane:hover{
+    -fx-background-color: #333333;
+}
+
+.musicLabelPane-strip{
+    -fx-background-color: #000000;
+}
+.musicLabelPane-strip:hover{
+    -fx-background-color: #333333;
+}
+.musicLabelPane-active{
+    -fx-background-color: #0078D7;
+}
+
+.active-Label{
+    -fx-background-color: transparent;
+}
+
+.active-Label:hover{
+    -fx-background-color: #1984DAc9;
+}
